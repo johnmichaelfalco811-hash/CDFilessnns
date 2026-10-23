@@ -1,1 +1,4 @@
-The optional music button uses the YouTube track you provided and starts off. No MP3 is needed for that embed.
+Add your original files here from the shared Google Drive folder:
+- about-vlog.mp4
+- group-montage.mp4
+The website links to the shared folder when these local files are unavailable.
